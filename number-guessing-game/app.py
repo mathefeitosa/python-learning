@@ -5,7 +5,7 @@ import random
 def main():
   welcome_text = """
   ------------------------------------------
-  |   Welcome to the gessing number game!  |
+  |   Welcome to the number gessing game!  |
   |                                        |
   |  I'll think in a number between 0-10.  |
   |                                        |
